@@ -5,6 +5,10 @@ MERN Stack Developer | React.js | Node.js | Express.js | MongoDB
 </h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Backend+Focused+Developer;Building+Scalable+Web+Applications;REST+API+%7C+JWT+%7C+MongoDB" />
+</p>
+
+<p align="center">
 Passionate Full Stack Developer focused on building scalable, responsive, and user-friendly web applications using the MERN Stack.
 </p>
 
@@ -14,33 +18,44 @@ Passionate Full Stack Developer focused on building scalable, responsive, and us
 
 - 💻 MERN Stack Developer passionate about modern web development
 - 🌱 Currently improving my Backend Development and System Design skills
-- 🚀 Successfully built and deployed a Full Stack Learning Management System
+- 🔐 Experienced in REST APIs, JWT Authentication & Role Based Authorization
+- 🚀 Successfully built and deployed Full Stack applications
 - 🎯 Looking for Full Stack / MERN Stack Developer opportunities
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs & JWT Authentication**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Frontend
+## 💻 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
 </p>
 
-### ⚙️ Backend
+
+## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🧰 Tools & Platforms
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+
+## 🧰 Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-### ☁️ Deployment
+
+## ☁️ Deployment & Services
 
 - Vercel
 - Render
@@ -48,9 +63,11 @@ Passionate Full Stack Developer focused on building scalable, responsive, and us
 - Cloudinary
 - Razorpay
 
+
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
+
 
 ## 🎓 Learning Management System (MERN Stack)
 
@@ -63,20 +80,59 @@ A complete Full Stack Learning Management System developed using the MERN Stack.
 - 👨‍🏫 Instructor Dashboard
 - 📚 Course Management
 - 🎥 Video Upload
-- ❤️ Wishlist
+- ❤️ Wishlist System
 - ⭐ Reviews & Ratings
-- 📈 Learning Progress
+- 📈 Learning Progress Tracking
 - 💳 Razorpay Payment Integration
-- ☁️ Cloudinary Image Upload
+- ☁️ Cloudinary Media Storage
 - 📱 Fully Responsive UI
+
+
+### 🛠 Technologies
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `Razorpay`
+
 
 ### 🔗 Live Demo
 
 👉 https://learning-management-system-tawny-one.vercel.app
 
+
 ### 💻 GitHub Repository
 
 👉 https://github.com/boopathiraja26/Learning_Management_System
+
+
+
+---
+
+
+## 🤝 WorkConnect - Multi Service Platform
+
+A full-stack service management platform that connects users with service providers through an easy-to-use web application.
+
+
+### ✨ Features
+
+- 🔐 User Authentication
+- 👤 User & Service Provider Management
+- 📋 Service Listing System
+- 📅 Booking Management
+- 🔄 CRUD Operations
+- 🔒 Protected Routes
+- 🌐 REST API Integration
+- 🛠 Admin Management
+
+
+### 🛠 Technologies
+
+`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `JWT Authentication`
+
+
+### 💻 GitHub Repository
+
+👉 Add your WorkConnect repository link here
+
 
 ---
 
@@ -90,6 +146,7 @@ A complete Full Stack Learning Management System developed using the MERN Stack.
 
 </p>
 
+
 ---
 
 # 🔥 GitHub Streak
@@ -100,13 +157,37 @@ A complete Full Stack Learning Management System developed using the MERN Stack.
 
 </p>
 
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=boopathiraja26&theme=tokyonight&row=1"/>
+
+</p>
+
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/boopathiraja26/boopathiraja26/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+
 ---
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: **(Add your LinkedIn URL)**
+- 💼 LinkedIn: Add your LinkedIn URL
 - 💻 GitHub: https://github.com/boopathiraja26
-- 📧 Email: **(boopathiraja26ab@gmail.com)**
+- 📧 Email: boopathiraja26ab@gmail.com
+
 
 ---
 
@@ -116,6 +197,7 @@ A complete Full Stack Learning Management System developed using the MERN Stack.
 - 📚 Learn System Design Fundamentals
 - ⚡ Improve Data Structures & Algorithms
 - 💼 Secure a Full Stack MERN Developer Role
+
 
 ---
 
