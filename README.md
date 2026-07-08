@@ -140,12 +140,10 @@ https://github.com/boopathiraja26/Work-Connect
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=boopathiraja26&theme=tokyonight&row=1"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=boopathiraja26&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 
