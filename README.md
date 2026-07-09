@@ -140,29 +140,13 @@ https://github.com/boopathiraja26/Work-Connect
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=boopathiraja26&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/boopathiraja26/boopathiraja26/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 
 ---
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn URL
+- 💼 LinkedIn: linkedin.com/in/boopathi-raja-306523392
 - 💻 GitHub: https://github.com/boopathiraja26
 - 📧 Email: boopathiraja26ab@gmail.com
 
